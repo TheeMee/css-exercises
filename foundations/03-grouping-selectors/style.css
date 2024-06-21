@@ -3,3 +3,18 @@
     font-size: 28px;
     font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
 }
+
+/* a black background, 
+white text color, 
+and a bold font weight */
+
+.click-me-button {
+   background-color: #000;
+   color: #ffffff;
+   font-weight: bold;
+}
+
+/* a yellow background */
+.no-click-me-button {
+    background-color: #dfd336;
+}
